@@ -12,3 +12,5 @@ featuredVideo:
 featuredImage:
 draft: false
 ---
+
+Some dummy text.
