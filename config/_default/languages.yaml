@@ -1,8 +1,12 @@
 en:
   languageCode: en
   languageName: English
-  # Uncomment for multilingual sites, and move the default content into corresponding sub-folder.
-  # contentDir: content/en
+  contentDir: content/en
+
+en:
+  languageCode: es
+  languageName: Español
+  contentDir: content/es
 
 # Uncomment for multilingual sites, and customize the following config.
 # zh:
