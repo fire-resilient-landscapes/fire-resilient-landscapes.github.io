@@ -10,12 +10,12 @@ social:
   - icon: envelope
     iconPack: fas
     url: mailto:ccojeda@uc.cl
-  <!-- - icon: twitter -->
-  <!--   iconPack: fab -->
-  <!--   url: https://example.com/ -->
-  <!-- - icon: github -->
-  <!--   iconPack: fab -->
-  <!--   url: https://example.com/ -->
+  - icon: twitter
+    iconPack: fab
+    url: https://example.com/
+  - icon: github
+    iconPack: fab
+    url: https://example.com/
 ---
 
 ## Self Introduction
