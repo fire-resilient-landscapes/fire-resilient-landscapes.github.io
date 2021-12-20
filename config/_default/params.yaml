@@ -44,7 +44,7 @@ comment:
   handler: disqus
 
   disqus:
-    shortname: disq 
+    shortname: fire-resilient-landscapes
 
   # utterances:
   #   # Browse https://utteranc.es/ to see the options available.
