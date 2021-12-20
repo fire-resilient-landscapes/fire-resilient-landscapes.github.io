@@ -13,6 +13,8 @@ tags:
 categories:
 - poster
 series:
+date: '2021-12-12'
+lastmod: '2020-12-20'
 draft: false
 featuredImage: posters/en/PG6.png
 ---
