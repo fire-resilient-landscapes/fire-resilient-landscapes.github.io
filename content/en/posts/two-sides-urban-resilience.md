@@ -1,6 +1,6 @@
 ---
 title: Two sides of the urban resilience
-description: Post with featured image.
+description: 
 toc: true
 authors:
   - carojeda
