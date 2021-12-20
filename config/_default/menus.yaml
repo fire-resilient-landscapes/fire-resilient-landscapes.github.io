@@ -1,17 +1,13 @@
 main:
-  - name: About
-    url: '#about'
-    weight: 1
-
-  - name: Posts
+  - name: Blog
     url: /posts/
-    weight: 2
+    weight: 1
 
   - name: Infographics
     url: /docs/
-    weight: 3
+    weight: 2
 
   - name: About us   
     url: /authors/
-    weight: 4
+    weight: 3
 
