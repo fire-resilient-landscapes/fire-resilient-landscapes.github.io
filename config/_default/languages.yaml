@@ -1,0 +1,17 @@
+en:
+  languageCode: en
+  languageName: English
+  contentDir: content/en
+
+es:
+  languageCode: es
+  languageName: Español
+  contentDir: content/es
+  title: Paisajes resilientes ante incendios forestales
+  
+# Uncomment for multilingual sites, and customize the following config.
+# zh:
+#   languageCode: zh
+#   languageName: 简体中文
+#   contentDir: content/zh
+#   title: 中文标题
