@@ -18,10 +18,8 @@ social:
     url: https://www.instagram.com/mysterywolf.art
   - icon: palette
     iconPack: fas
-    url: linktr.ee/themysterywolf
+    url: https://linktr.ee/themysterywolf
   
 ---
 
-## Selfintroduction
-
-Carolina is a History and Geography teacher, graduated from the Universidad de Concepción, and studied a Master's degree in Regional and Environmental Development at the Universidad de Valparaíso (Chile). She is currently a student of the Doctoral Program in Architecture and Urban Studies from Pontificia Universidad Católica de Chile. She is also a part time professor at the Department of History and Geography, Faculty of Communication, History and Social Sciences, Universidad Católica de la Santísima Concepción. 
+Jossef is an Illustrator from Chile with a Degree in Physics. He is currently a Master's Degree Student at the Universidad de Concepción (UdeC) and he specializes on Biophysics, in particular, active soft matter applied to collective cell migration in embryo development. As an artist, he draws comics and posters, and he also tries to mix arts and science.
